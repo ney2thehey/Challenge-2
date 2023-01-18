@@ -69,7 +69,7 @@ a {
 
 .section p, .section a {
     line-height: 1.5;
-    color: #2a607c;
+    color: #13293d;
     width: 80%;
     margin: 0 auto;
     font-size: 30px;
@@ -156,7 +156,7 @@ bottom: 10%;
 left: 0%;
 display: inline-block;
 text-align: start;
-background-color: rgb(0, 130, 139);
+background-color: rgb(0 130 139 / 28%);
 
 }
 /* main proj section 2 styling -----------------------------*/
